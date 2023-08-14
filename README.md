@@ -1,4 +1,4 @@
-# Reliance-vs.-Nifty-Data-Exploration-Insights
+# Performance Analysis: Reliance vs. Nifty
 
 Welcome to the README for my Reliance Industries vs. Nifty 50 Analysis project! In this project, I've conducted a comprehensive analysis of the stock price data for Reliance Industries and compared it with the Nifty 50 index. Below, you'll find an overview of what this project entails and the key insights I've uncovered.
 
